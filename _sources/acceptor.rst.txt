@@ -1,0 +1,7 @@
+acceptor module
+===============
+
+.. automodule:: acceptor
+    :members:
+    :undoc-members:
+    :show-inheritance:

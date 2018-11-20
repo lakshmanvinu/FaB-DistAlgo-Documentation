@@ -1,0 +1,7 @@
+learner module
+==============
+
+.. automodule:: learner
+    :members:
+    :undoc-members:
+    :show-inheritance:

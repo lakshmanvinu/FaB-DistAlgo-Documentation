@@ -1,0 +1,54 @@
+src package
+===========
+
+Submodules
+----------
+
+src.acceptor module
+-------------------
+
+.. automodule:: src.acceptor
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+src.election module
+-------------------
+
+.. automodule:: src.election
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+src.learner module
+------------------
+
+.. automodule:: src.learner
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+src.main module
+---------------
+
+.. automodule:: src.main
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+src.proposer module
+-------------------
+
+.. automodule:: src.proposer
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: src
+    :members:
+    :undoc-members:
+    :show-inheritance:

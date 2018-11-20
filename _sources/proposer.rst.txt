@@ -1,0 +1,7 @@
+proposer module
+===============
+
+.. automodule:: proposer
+    :members:
+    :undoc-members:
+    :show-inheritance:
