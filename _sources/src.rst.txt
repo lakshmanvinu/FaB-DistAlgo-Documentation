@@ -4,26 +4,18 @@ src package
 Submodules
 ----------
 
-src.acceptor module
--------------------
+src.correctness module
+----------------------
 
-.. automodule:: src.acceptor
+.. automodule:: src.correctness
     :members:
     :undoc-members:
     :show-inheritance:
 
-src.election module
--------------------
+src.fab module
+--------------
 
-.. automodule:: src.election
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-src.learner module
-------------------
-
-.. automodule:: src.learner
+.. automodule:: src.fab
     :members:
     :undoc-members:
     :show-inheritance:
@@ -36,10 +28,18 @@ src.main module
     :undoc-members:
     :show-inheritance:
 
-src.proposer module
--------------------
+src.perf module
+---------------
 
-.. automodule:: src.proposer
+.. automodule:: src.perf
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+src.violation module
+--------------------
+
+.. automodule:: src.violation
     :members:
     :undoc-members:
     :show-inheritance:
